@@ -1,0 +1,18 @@
+function:
+    add a, 10;
+    ret;
+
+main:
+    mov a, 1;
+    mov b, 10;
+    add b, String;
+    add b, 1251.1233;
+    mov d, "String";
+    add a, 2;
+    print d;
+    print b;
+    ret;
+
+f1:
+    add a, 10;
+    ret;=
